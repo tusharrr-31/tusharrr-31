@@ -21,18 +21,5 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<div class="logo"><img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="Adobe Illustrator"></div>
-        <div class="logo"><img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" alt="Adobe Photoshop"></div>
-        <div class="logo"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/36px-Figma-logo.svg.png" alt="CorelDRAW"></div>
-        <div class="logo"><img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Canva_icon_2021.svg" alt="CorelDRAW"></div>
-        <div class="logo"><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="CorelDRAW"></div>
-        <div class="logo"><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="CorelDRAW"></div>
-        <div class="logo"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="CorelDRAW"></div>
-        <div class="logo"><img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="CorelDRAW"></div>
-        <div class="logo"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/36px-CSS3_logo_and_wordmark.svg.png" alt="CorelDRAW"></div>
-        <div class="logo"><img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="CorelDRAW"></div>
-        <div class="logo"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" alt="CorelDRAW"></div>
-        <div class="logo"><img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" alt="CorelDRAW"></div>
-        <div class="logo"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/64px-Octicons-mark-github.svg.png" alt="CorelDRAW"></div>
-        <div class="logo"><img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.svg" alt="CorelDRAW"></div>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tusharrr-31&" alt="Tushar singh" /></p>
