@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Tushar Singh</h1>
 <h3 align="center">A passionate UI/UX Designer from India</h3>
-<p align="right"> <img src="https://static.wixstatic.com/media/91ff38_403c2b2b8ce04bc1bd0f616206c2e2f3~mv2.gif" >
+<p align="right"> <img src="https://static.wixstatic.com/media/91ff38_403c2b2b8ce04bc1bd0f616206c2e2f3~mv2.gif" height="100px" width="100px">
 
 - 👨‍💻 All of my projects are available at [https://singhtushar.netlify.app/](https://singhtushar.netlify.app/)
 
