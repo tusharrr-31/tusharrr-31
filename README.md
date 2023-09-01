@@ -1,7 +1,7 @@
 ![MasterHead](new.png)
 <h1 align="center">Hi 👋, I'm Tushar Singh</h1>
 <h3 align="center">A passionate UI/UX Designer from India</h3>
-<img align ="right" alt="coding" width="400" src="https://i.gifer.com/OyGx.gif">
+<img align ="right" alt="coding" width="400" src="[https://i.gifer.com/OyGx.gif](https://i.pinimg.com/originals/e3/c7/47/e3c747b1bf7b80b066f62d629209e694.gif)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tusharrr-31&label=Profile%20views&color=0e75b6&style=flat" alt="tusharrr-31" /> </p>
 
