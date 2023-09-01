@@ -6,10 +6,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tusharrr-31&label=Profile%20views&color=0e75b6&style=flat" alt="tusharrr-31" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tusharrr-31" alt="tusharrr-31" /></a> </p>
-
+<img align ="right" alt="coding" width="400" src="e3c747b1bf7b80b066f62d629209e694.gif">
 <p align="left"> <a href="https://twitter.com/tusharrr_31" target="blank"><img src="https://img.shields.io/twitter/follow/tusharrr_31?logo=twitter&style=for-the-badge" alt="tusharrr_31" /></a>
 </p>
-<img align ="right" alt="coding" width="400" src="e3c747b1bf7b80b066f62d629209e694.gif">
+
 - 🌱 I’m currently learning **Web Development**
 
 - 👨‍💻 All of my projects are available at [https://tushar-singh.netlify.app/](https://tushar-singh.netlify.app/)
